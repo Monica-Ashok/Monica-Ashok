@@ -19,7 +19,7 @@ I am a seasoned Clinical Business Analyst with over 5 years of experience in the
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Monica-Ashok&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Monica-Ashok&limit=5&theme=neon&combine_all_yearly_contributions=true)  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Monica-Ashok&icon=10&color=11)](https://visitcount.itsvg.in)
